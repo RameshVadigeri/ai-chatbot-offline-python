@@ -19,6 +19,6 @@ This is a simple AI chatbot built using Python and Tkinter. It works offline and
 - Python 3
 - Tkinter 
 
-  # Author
+  # Author 
 
   Ramesh Vadigeri
